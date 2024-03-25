@@ -23,6 +23,6 @@
     "stylelint": "stylelint assets/**/*.scss"
   },
   "dependencies": {
-    "katex": "^0.16.4"
+    "katex": "^0.16.10"
   }
 }
